@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author slipk
+ *
+ */
+module JavaSimpleCodes {
+}
